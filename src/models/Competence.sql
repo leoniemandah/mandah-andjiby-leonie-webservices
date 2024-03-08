@@ -1,0 +1,4 @@
+CREATE TABLE Competence (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    libelle VARCHAR(100) NOT NULL
+);
