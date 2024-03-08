@@ -1,5 +1,5 @@
 // Importer le modèle Utilisateur
-const Utilisateur = require('../models/utilisateur');
+const Utilisateur = require('../models/Utilisateur.sql');
 
 // Obtenir tous les utilisateurs
 exports.getAllUtilisateurs = async (req, res) => {

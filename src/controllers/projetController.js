@@ -1,5 +1,5 @@
 // Importer le modèle Projet
-const Projet = require('../models/projet');
+const Projet = require('../models/Projet.sql');
 
 // Obtenir tous les projets
 exports.getAllProjets = async (req, res) => {

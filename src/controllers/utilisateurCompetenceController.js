@@ -1,5 +1,5 @@
 // Importer le modèle Utilisateur_Competence
-const UtilisateurCompetence = require('../models/utilisateurCompetence');
+const UtilisateurCompetence = require('../models/Utilisateur_Competence.sql');
 
 // Obtenir les compétences d'un utilisateur
 exports.getUtilisateurCompetences = async (req, res) => {

@@ -1,5 +1,5 @@
 // Importer le modèle Competence
-const Competence = require('../models/competence');
+const Competence = require('../models/Competence.sql');
 
 // Obtenir toutes les compétences
 exports.getAllCompetences = async (req, res) => {

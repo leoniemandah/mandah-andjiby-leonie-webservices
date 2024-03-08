@@ -1,5 +1,5 @@
 // Importer le modèle Projet_Utilisateur
-const ProjetUtilisateur = require('../models/projetUtilisateur');
+const ProjetUtilisateur = require('../models/Projet_Utilisateur.sql');
 
 // Obtenir toutes les relations projet-utilisateur
 exports.getAllProjetsUtilisateurs = async (req, res) => {
