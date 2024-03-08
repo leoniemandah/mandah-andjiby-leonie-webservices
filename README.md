@@ -25,4 +25,7 @@ Qu'est ce qui justifie d'avoir en plus de notre api node un serveur web comme Ap
 # PERFORMANCES
 Citez 3 axes vus en cours pour améliorer les performance d'une api Rest
 
-=> 
+=> En cours nous avons vu:
+    - optimisation des requêtes et réponses
+    - optimisation des requêtes côté client
+    - optimisation de l'infrastructure et de la conception de l'API 
